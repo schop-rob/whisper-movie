@@ -1,4 +1,4 @@
-# Whipser Movie
+# Whisper Movie
 
 Generate subtitles for long movies / podcasts with OpenAI Whisper API.
 
